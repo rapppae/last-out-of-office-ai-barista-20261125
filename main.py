@@ -1,6 +1,6 @@
 """Entry for make.fun bounty "Last Out of Office: The AI That Went Barista".
 
-Entry text (205 characters, limit: at most 280 characters).
+Entry text (211 characters, limit: at most 280 characters).
 No trailing newline is written, per the bounty text format.
 """
 
